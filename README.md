@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riyaz.
-- 👀 I’m interested in becoming a Full stack development.
-- 🌱 I’m currently learning HTML.
+- 👀 I’m interested in becoming a Full stack developer.
+- 🌱 I’m currently learning a lot of things.
 
 <!---
 Riyaz002/Riyaz002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
