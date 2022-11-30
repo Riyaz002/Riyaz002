@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Riyaz002
-- 👀 I’m interested in developing high end applications, gaming and football
-- 🌱 I’m currently learning fullstack web development and flutter 
+- 👋 Hi, I’m Riyaz
+- 👀 I’m interested in developing applications, gaming and football
+- 🌱 I’m currently working as an Android developer intern 
 - 💞️ I’m looking for job in app development feild
 - 📫 Reach me at riyazps@gmail.com
 
