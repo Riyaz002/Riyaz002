@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Riyaz
 - 👀 I’m interested in developing applications, gaming and football
-- 🌱 I’m currently working as an Android developer intern 
-- 💞️ I’m looking for job in app development feild
+- 🌱 I’m currently working as an Android developer at DailyObjects
 - 📫 Reach me at riyazps@gmail.com
 
 <!---
